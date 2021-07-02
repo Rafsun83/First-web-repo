@@ -1,3 +1,30 @@
-h1{
-    color: red
-}
+
+    h3{
+        color: blue;
+    }
+    .author{
+        color:green
+    }
+   
+    .blog{
+        background-color: skyblue;
+        border: 5px solid yellow;
+        border-radius: 5px;
+      
+        padding: 20px 20px 20px 20px;
+        width: 50%;
+        height: 300px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+
+    }
+    .blog-title{
+        text-align: center;
+        font-size: 2em;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 500;
+
+    }
+    .blog p{
+        text-align: justify;
+    }
