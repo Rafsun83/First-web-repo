@@ -1,4 +1,8 @@
-
+    h1{
+        color: crimson;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
     h3{
         color: blue;
     }
@@ -27,4 +31,7 @@
     }
     .blog p{
         text-align: justify;
+    }
+    .img{
+        text-align: center;
     }
